@@ -9,3 +9,4 @@ See https://adventofcode.com/2022 for details.
 - [December 1st](puzzles/dec1/README.txt) ⭐⭐
 - [December 2nd](puzzles/dec2/README.txt) ⭐⭐
 - [December 3rd](puzzles/dec3/README.txt) ⭐⭐
+- [December 4th](puzzles/dec4/README.txt) ⭐⭐
