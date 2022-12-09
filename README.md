@@ -11,3 +11,4 @@ See https://adventofcode.com/2022 for details.
 - [December 3rd](puzzles/dec3/README.txt) ⭐⭐
 - [December 4th](puzzles/dec4/README.txt) ⭐⭐
 - [December 5th](puzzles/dec5/README.txt) ⭐⭐
+- [December 6th](puzzles/dec6/README.txt) ⭐⭐
